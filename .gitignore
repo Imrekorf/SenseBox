@@ -1,0 +1,11 @@
+Documentation/html/**
+Documentation/latex/**
+**/MQTTSettings.h
+ArduinoOutput/**
+ArduinoConfig-Generator/.vscode
+ArduinoConfig-Generator/bin
+ArduinoConfig-Generator/build
+ArduinoConfig-Generator/main
+ArduinoConfig-Generator/main.exe
+ArduinoConfig-Generator/MQTTSettings.dat
+.vscode/**
